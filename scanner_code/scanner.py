@@ -1,5 +1,5 @@
 # Hello this project is made entirely by a single
-# angelrmf, i saw this idea from Mr robot and thought
+# angelrmf
 # "WHY NOT?"
 # Will try to copy what nmap does, to the best of my 
 # abilities or fail in the process
