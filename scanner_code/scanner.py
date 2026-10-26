@@ -1,9 +1,6 @@
-# Hello this project is made entirely by a single
+# Hello this project is made entirely by a single person
 # angelrmf
-# "WHY NOT?"
-# Will try to copy what nmap does, to the best of my 
-# abilities or fail in the process
-
+# Will try to copy what nmap does, to the best of my abilities
 
 import socket
 
